@@ -172,6 +172,7 @@ main .gallery{
     background-size: contain;
     width: 100vw;
     height: 100vh;
+    margin-bottom: 10rem;
 }
 
 /* +++++ IDEA +++++ */
@@ -205,9 +206,9 @@ main .gallery{
 .challenge{
     margin: 0 auto;
     width: 70vw;
-    height: 50vh;
+    height: 40vh;
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: flex-start;
     margin-bottom: 5rem;
 }
@@ -550,6 +551,10 @@ footer img{
     }
 
     /* ! +++++ LETSGO +++++ */
+
+    .letsgo{
+        margin-bottom: 15rem;
+    }
 
     /* ! +++++ STEPS +++++ */
 
